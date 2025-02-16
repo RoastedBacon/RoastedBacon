@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoastedBacon
 - 👀 I’m interested in CS stuff, Star Wars, weather, politics, and more super nerdy things
-- 🌱 I’m currently learning Data Structures and Digital systems
+- 🌱 I’m currently learning communication systems, software engineering, and working on my capstone
 - 📫 How to reach me: email is bsutter2004@gmail.com
